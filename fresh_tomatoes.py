@@ -1,10 +1,3 @@
-# To change this license header, choose License Headers in Project Properties.
-# To change this template file, choose Tools | Templates
-# and open the template in the editor.
-
-__author__ = "meph"
-__date__ = "$May 14, 2015 1:31:05 PM$"
-
 import os
 import re
 import webbrowser
